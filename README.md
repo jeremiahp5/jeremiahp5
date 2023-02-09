@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ...
 
 
-- name: accum-board-stats
-  uses: andry81-devops/gh-action--accum-board-stats@v1.3.1
+name: accum-board-stats
+uses: andry81-devops/gh-action--accum-board-stats@v1.3.1
