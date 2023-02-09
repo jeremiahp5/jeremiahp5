@@ -29,23 +29,4 @@
 </div>
 
 ###
-<div align="left">
-    "profiles": [
-      {
-        "network": "Twitter",
-        "url": "http://twitter.com/navdeepsekhon9"
-      },
-      {
-        "network": "github",
-        "url": "http://decompile.xyz"
-      },
-      {
-        "network": "linkedin",
-        "url": "https://www.linkedin.com/in/navdeepsekhon"
-      },
-      {
-        "network": "facebook",
-        "url": "facebook.com/navdeepsekhon6"
-      }
-  </div>
 
